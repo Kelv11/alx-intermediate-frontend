@@ -1,0 +1,18 @@
+# SASS Installation Script
+
+# Step 1: Navigated to the project directory
+
+cd alx-intermediate-frontend
+
+# Step 2: Created the 0x03-sass_scss directory
+
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Step 3: Installed latest compatible version of SASS (as 3.7.4 doesn't exist)
+
+npm install sass
+
+# Step 4: Verified installation
+
+npx sass --version
